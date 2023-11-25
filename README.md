@@ -1,4 +1,4 @@
-# A00832272_PortafolioIAnalisi
+# A00832272_PortafolioIAnalisis
 
 # Curso TC3007C - Inteligencia Artificial Avanzada para la Ciencia de Datos
 
