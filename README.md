@@ -44,7 +44,7 @@
 ## NLP
   * <a href="https://github.com/Julian7312/PortafolioAnalisis_A00832272_TC3007C/blob/main/final/NLP/README.MD">README.md</a>
  
-  * <a href="https://github.com/Julian7312/PortafolioAnalisis_A00832272_TC3007C/blob/main/final/NLP/NLP_A00832272_Julian_Lawrence_Gil_Soares.pdf">NLP_A00832272_Julian_Lawrence_Gil_Soares</a>
+  * <a href="https://github.com/Julian7312/PortafolioAnalisis_A00832272_TC3007C/blob/main/final/NLP/NLP_A00832272_Julian_Lawrence_Gil_Soares%20(1).pdf">NLP_A00832272_Julian_Lawrence_Gil_Soares</a>
 
 ## Reto - Privacidad y seguridad de los datos
   * <a href="https://github.com/Julian7312/PortafolioAnalisis_A00832272_TC3007C/blob/main/final/Reto%20-%20Privacidad%20y%20seguridad%20de%20los%20datos/Reto_Privacidad_y_Seguridad_de_los_Datos.pdf">Reto - Privacidad y seguridad de los datos</a>
